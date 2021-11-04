@@ -1,8 +1,9 @@
 # vuetify-todo-app
 ## Live Preview
-```
+
 https://joannakopystecka-vuetify-todo.netlify.app/#/
-```
+
+
 
 
 Lista rzeczy do zrobienia stworzona przy użyciu Vue.js i Vuetify.js.
