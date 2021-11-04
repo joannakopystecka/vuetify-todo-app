@@ -1,4 +1,14 @@
 # vuetify-todo-app
+## Live Preview
+```
+https://joannakopystecka-vuetify-todo.netlify.app/#/
+```
+
+
+Lista rzeczy do zrobienia stworzona przy użyciu Vue.js i Vuetify.js.
+Czynności z listy można dodawać, odznaczać jako wykonane i usuwać.
+
+
 
 ## Project setup
 ```
@@ -15,5 +25,3 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
